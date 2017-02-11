@@ -1,0 +1,11 @@
+C:\Users\Alv\Desktop\recibirdatosarduino\recibirdatosarduino\recibirdatosarduino\bin\Debug\recibirdatosarduino.exe.config
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\bin\Debug\recibirdatosarduino.exe.config
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\bin\Debug\recibirdatosarduino.exe
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\bin\Debug\recibirdatosarduino.pdb
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\bin\Debug\recibirdatosarduino.xml
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\obj\Debug\recibirdatosarduino.Form1.resources
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\obj\Debug\recibirdatosarduino.Resources.resources
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\obj\Debug\recibirdatosarduino.vbproj.GenerateResource.Cache
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\obj\Debug\recibirdatosarduino.exe
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\obj\Debug\recibirdatosarduino.xml
+C:\Users\Alv\Desktop\recibirdatosarduino VISUAL12\recibirdatosarduino\recibirdatosarduino\obj\Debug\recibirdatosarduino.pdb
